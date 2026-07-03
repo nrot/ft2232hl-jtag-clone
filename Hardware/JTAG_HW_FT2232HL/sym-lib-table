@@ -1,3 +1,5 @@
 (sym_lib_table
-  (lib (name usb_c16pin)(type Legacy)(uri ${KIPRJMOD}/../kicad-USB-C-master/USB-C-16pin-symbol/usb_c16pin.lib)(options "")(descr ""))
+  (version 7)
+  (lib (name "usb_c16pin")(type "Legacy")(uri "${KIPRJMOD}/../kicad-USB-C-master/USB-C-16pin-symbol/usb_c16pin.lib")(options "")(descr ""))
+  (lib (name "Fix")(type "KiCad")(uri "${KIPRJMOD}/Fix.kicad_sym")(options "")(descr ""))
 )
